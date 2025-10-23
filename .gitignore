@@ -1,0 +1,10 @@
+# general
+.DS_Store
+.vscode/
+*.log
+.env
+# node (もし使う場合)
+node_modules/
+# python (もし使う場合)
+__pycache__/
+*.pyc
